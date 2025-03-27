@@ -60,6 +60,9 @@ Además de la programación, me interesa la **impresión 3D**, el **diseño audi
 🌐 LinkedIn: [Jordi Barrachina Méndez](https://www.linkedin.com/in/jordi-barrachina-méndez/)  
 🐦 Twitter: [@JordiB_23](https://x.com/JordiB_23) 
 
+---
+
+
 </details>
 
 I’m **Jordi**, a programmer in training with a strong desire to learn. I am currently studying **Computer Engineering** at the **Polytechnic University of Valencia**, and I’m finishing my second year.  
