@@ -13,17 +13,17 @@ Además de la programación, me interesa la **impresión 3D**, el **diseño audi
 
 ## 🚀 Tecnologías  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/java.png" width=50px title="Java">
-  <img src="assets/python.png" width=50px title="Python">
-  <img src="assets/javaScript.png" width=50px title="JavaScript">
-  <img src="assets/html.png" width=50px title="HTML">
-  <img src="assets/css.png" width=50px title="CSS">
-  <img src="assets/mysql.png" width=50px title="MySQL">
-  <img src="assets/django.png" width=50px title="Django">
-  <img src="assets/git.png" width=50px title="Git">
-  <img src="assets/github.png" width=50px title="GitHub">
-  <img src="assets/visualStudio.png" width=50px title="Visual Studio Code">
-  <img src="assets/bluej.png" width=50px title="BlueJ">
+  <img src="assets/java.png" width=50px title="Java" alt="Java">
+  <img src="assets/python.png" width=50px title="Python" alt="Python">
+  <img src="assets/javaScript.png" width=50px title="JavaScript" alt="JavaScript">
+  <img src="assets/html.png" width=50px title="HTML" alt="HTML">
+  <img src="assets/css.png" width=50px title="CSS" alt="CSS">
+  <img src="assets/mysql.png" width=50px title="MySQL" alt="MYSQL">
+  <img src="assets/django.png" width=50px title="Django" alt="Django">
+  <img src="assets/git.png" width=50px title="Git" alt="Git">
+  <img src="assets/github.png" width=50px title="GitHub" alt="GitHub">
+  <img src="assets/visualStudio.png" width=50px title="Visual Studio Code" alt="Visual Studio Code">
+  <img src="assets/bluej.png" width=50px title="BlueJ" alt="BlueJ">
 </div>
 
 ---
