@@ -97,7 +97,6 @@ In addition to programming, I am passionate about **3D printing**, **audiovisual
 ---
 
 ## 🛠️ Featured Projects  
-🔹 [🎲 Raffle Generator](https://github.com/JBDev23/SorteoMedieval) → Web application for conducting random draws.
 🌟 **[Medieval Raffle](https://github.com/JBDev23/SorteoMedieval)**  🎭 Web applications for conducting random draws.  
 
 ---
