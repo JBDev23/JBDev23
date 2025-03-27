@@ -2,7 +2,7 @@
 Soy **Jordi**, un programador en formación con muchas ganas de aprender. Actualmente estudio **Ingeniería Informática** en la **Universidad Politécnica de Valencia**, y estoy finalizando mi segundo curso.  
 
 <details>
-    <summary>🇪🇸 Español</summary>
+    <summary>Haz click para ver más - 🇪🇸 Español</summary>
 <br>
   
 Fuera de la universidad, me formo continuamente en diferentes áreas de la informática. Actualmente, estoy aprendiendo **desarrollo web** con **Python y Django**, además de **HTML, CSS y JavaScript**. También me especializo en **Java** y sigo profundizando en sus conceptos.  
@@ -65,7 +65,7 @@ Además de la programación, me interesa la **impresión 3D**, el **diseño audi
 I’m **Jordi**, a programmer in training with a strong desire to learn. I am currently studying **Computer Engineering** at the **Polytechnic University of Valencia**, and I’m finishing my second year.  
 
 <details>
-  <summary>🇬🇧 English</summary>
+  <summary>Click to see more - 🇬🇧 English</summary>
   
 <br>
 
@@ -137,7 +137,7 @@ In addition to programming, I am passionate about **3D printing**, **audiovisual
 ---
 
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="assets/banner.jpg" width="100%">
 </p>
 
 <!--
