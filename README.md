@@ -29,7 +29,7 @@ Además de la programación, me interesa la **impresión 3D**, el **diseño audi
 ---
 
 ## 🛠️ Proyectos Destacados  
-🔹 [🎲 Generador de Sorteos](https://github.com/JBDev23/SorteoMedieval) → Aplicación web para realizar sorteos aleatorios.
+🌟 **[Sorteo Medieval](https://github.com/JBDev23/SorteoMedieval)**  🎭 Aplicación web para realizar sorteos de números aleatorios.  
 
 ---
 
@@ -95,6 +95,7 @@ In addition to programming, I am passionate about **3D printing**, **audiovisual
 
 ## 🛠️ Featured Projects  
 🔹 [🎲 Raffle Generator](https://github.com/JBDev23/SorteoMedieval) → Web application for conducting random draws.
+🌟 **[Medieval Raffle](https://github.com/JBDev23/SorteoMedieval)**  🎭 Web applications for conducting random draws.  
 
 ---
 
@@ -125,6 +126,19 @@ In addition to programming, I am passionate about **3D printing**, **audiovisual
 🌐 LinkedIn: [Jordi Barrachina Méndez](https://www.linkedin.com/in/jordi-barrachina-méndez/)  
 🐦 Twitter: [@JordiB_23](https://x.com/JordiB_23)  
 </details>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JBDev23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JBDev23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
+
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
 
 <!--
 **JBDev23/JBDev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
