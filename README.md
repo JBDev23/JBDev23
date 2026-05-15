@@ -140,5 +140,5 @@ Project developed for the TechForEquality hackathon. It uses artificial intellig
 ---
 
 <p align="center">
-  <img src="assets/banner.webp" width="100%" style="border-radius: 25px;">
+  <img src="banner.webp" width="100%" style="border-radius: 25px;">
 </p>
