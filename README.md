@@ -39,8 +39,10 @@ Aplicación web *Mobile-First* desarrollada con **React, TypeScript y Tailwind v
 * [Ver Demo en Vivo](https://jesucristo-superstar.vercel.app)
 * [Ver Repositorio](https://github.com/JBDev23/jesucristo-superstar)
 
-**[Optimizador de Sociogramas con IA](https://github.com/JBDev23/sociograma-ia)**  
+**Optimizador de Sociogramas con IA**  
 Proyecto desarrollado para la hackathon TechForEquality. Utiliza inteligencia artificial para analizar y optimizar sociogramas.
+* [Ver Demo en Vivo](sociograma-ia-frontend.vercel.app)
+* [Ver Repositorio](https://github.com/JBDev23/sociograma-ia)
 
 ---
 
@@ -110,8 +112,10 @@ Open-source water tracking application built with **React Native**. Currently in
 * [Live Demo](https://jesucristo-superstar.vercel.app)
 * [Repository](https://github.com/JBDev23/jesucristo-superstar)
 
-**[AI Sociogram Optimizer](https://github.com/JBDev23/sociograma-ia)**  
+**AI Sociogram Optimizer** 
 Project developed for the TechForEquality hackathon. It uses artificial intelligence to analyze and optimize sociograms.
+* [Live Demo](sociograma-ia-frontend.vercel.app)
+* [Repository](https://github.com/JBDev23/sociograma-ia)
 
 ---
 
