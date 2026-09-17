@@ -42,7 +42,7 @@ Proyecto desarrollado para la hackathon TechForEquality. Utiliza inteligencia ar
 * [Ver Demo en Vivo](sociograma-ia-frontend.vercel.app)
 * [Ver Repositorio](https://github.com/JBDev23/sociograma-ia)
 
-**Schoolyard Wheel
+**Schoolyard Wheel**
 Generador de disposiciones mensuales de zonas de patio para el curso escolar. Nació porque mi padre, profesor, y su equipo directivo necesitaban una forma sencilla y justa de repartir las zonas de vigilancia del patio a lo largo del año: sin hacerlo a mano, sin favoritismos y con un resultado fácil de compartir.
 * [Repositorio](https://github.com/JBDev23/schoolyard-wheel)
 
@@ -121,7 +121,7 @@ Project developed for the TechForEquality hackathon. It uses artificial intellig
 * [Live Demo](sociograma-ia-frontend.vercel.app)
 * [Repository](https://github.com/JBDev23/sociograma-ia)
 
-**Schoolyard Wheel
+**Schoolyard Wheel**
 Monthly playground zone assignment generator for the school year. It was created because my father, a teacher, and his school leadership team needed a simple and fair way to distribute playground supervision zones throughout the year: without doing it manually, without favoritism, and with an easily shareable result.
 * [Repository](https://github.com/JBDev23/schoolyard-wheel)
 
