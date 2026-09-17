@@ -1,5 +1,5 @@
 # ¡Hola! - Hello!
-Soy **Jordi**, un programador en formación con muchas ganas de aprender. Actualmente estudio **Ingeniería Informática** en la **Universidad Politécnica de Valencia**, finalizando mi tercer curso con especialidad en **Ingeniería del Software**.  
+Soy **Jordi**, un programador en formación con muchas ganas de aprender. Actualmente estudio **Ingeniería Informática** en la **Universidad Politécnica de Valencia**, finalizando mi cuarto curso con especialidad en **Ingeniería del Software**.  
 
 <details>
     <summary>Haz click para ver más - Español</summary>
@@ -31,18 +31,25 @@ Además de la programación, me interesa la **impresión 3D**, el **diseño audi
 
 **HydraFlow**  
 Aplicación de código abierto para el registro de agua, desarrollada con **React Native**. Actualmente en fase de pruebas.  
-* [Repositorio Frontend / App](https://github.com/JBDev23/hydraflow-app)
-* [Repositorio Backend](https://github.com/JBDev23/hydraflow-backend)
+* [Repositorio App](https://github.com/JBDev23/hydraflow)
+
+**JCP Obras y Construcciones Landing Page**  
+Proyecto dearrollado para un cliente real, JCP Obras y Construcciones. JCP ofrece servicio de construcción y reformas en L'Alcoià, el Comtat y La Vall d'Albaida.
+* [Web JCP Obras y Construcciones](https://www.jcpconstrucciones.com/)
+
+**Optimizador de Sociogramas con IA (WeavyAI)**  
+Proyecto desarrollado para la hackathon TechForEquality. Utiliza inteligencia artificial para analizar y optimizar sociogramas.
+* [Ver Demo en Vivo](sociograma-ia-frontend.vercel.app)
+* [Ver Repositorio](https://github.com/JBDev23/sociograma-ia)
+
+**Schoolyard Wheel
+Generador de disposiciones mensuales de zonas de patio para el curso escolar. Nació porque mi padre, profesor, y su equipo directivo necesitaban una forma sencilla y justa de repartir las zonas de vigilancia del patio a lo largo del año: sin hacerlo a mano, sin favoritismos y con un resultado fácil de compartir.
+* [Repositorio](https://github.com/JBDev23/schoolyard-wheel)
 
 **Web Interactiva - Campaña Voluntariado 2026**  
 Aplicación web *Mobile-First* desarrollada con **React, TypeScript y Tailwind v4** para el centro Juniors M.D. Endavant. Incluye un visor modal inmersivo interactivo, reproductor de audio integrado, diseño adaptativo con CSS Columns y optimización de metaetiquetas (SEO/OG).
 * [Ver Demo en Vivo](https://jesucristo-superstar.vercel.app)
 * [Ver Repositorio](https://github.com/JBDev23/jesucristo-superstar)
-
-**Optimizador de Sociogramas con IA**  
-Proyecto desarrollado para la hackathon TechForEquality. Utiliza inteligencia artificial para analizar y optimizar sociogramas.
-* [Ver Demo en Vivo](sociograma-ia-frontend.vercel.app)
-* [Ver Repositorio](https://github.com/JBDev23/sociograma-ia)
 
 ---
 
@@ -55,7 +62,6 @@ Proyecto desarrollado para la hackathon TechForEquality. Utiliza inteligencia ar
 ---
 
 ## En qué Estoy Trabajando  
-* Desarrollando la página web corporativa para **JCP Construcciones**.
 * Desarrollando la web oficial de **Movember Alcoy-Valencia** (lanzamiento previsto para noviembre).
 * Desarrollando una **aplicación web** de gestión para un voluntariado y construyendo mi **portafolio**.
 * Resolviendo retos de programación y algoritmia con **Python**.
@@ -71,7 +77,7 @@ Proyecto desarrollado para la hackathon TechForEquality. Utiliza inteligencia ar
 
 </details>
 
-I’m **Jordi**, a programmer in training with a strong desire to learn. I am currently studying **Computer Engineering** at the **Polytechnic University of Valencia**, finishing my third year with a specialization in **Software Engineering**.  
+I’m **Jordi**, a programmer in training with a strong desire to learn. I am currently studying **Computer Engineering** at the **Polytechnic University of Valencia**, finishing my fourth year with a specialization in **Software Engineering**.  
 
 <details>
   <summary>Click to see more - English</summary>
@@ -104,18 +110,25 @@ In addition to programming, I am passionate about **3D printing**, **audiovisual
 
 **HydraFlow**  
 Open-source water tracking application built with **React Native**. Currently in testing phase.
-* [Frontend / App Repository](https://github.com/JBDev23/hydraflow-app)
-* [Backend Repository](https://github.com/JBDev23/hydraflow-backend)
+* [App Repository](https://github.com/JBDev23/hydraflow)
+
+**JCP Obras y Construcciones Landing Page
+Project developed for a real client, JCP Obras y Construcciones. JCP offers construction and renovation services in L'Alcoià, el Comtat, and La Vall d'Albaida.
+* [Web JCP Obras y Construcciones](https://www.jcpconstrucciones.com/)
+
+**AI Sociogram Optimizer (WeavyAI)** 
+Project developed for the TechForEquality hackathon. It uses artificial intelligence to analyze and optimize sociograms.
+* [Live Demo](sociograma-ia-frontend.vercel.app)
+* [Repository](https://github.com/JBDev23/sociograma-ia)
+
+**Schoolyard Wheel
+Monthly playground zone assignment generator for the school year. It was created because my father, a teacher, and his school leadership team needed a simple and fair way to distribute playground supervision zones throughout the year: without doing it manually, without favoritism, and with an easily shareable result.
+* [Repository](https://github.com/JBDev23/schoolyard-wheel)
 
 **Interactive Web - 2026 Volunteer Campaign**  
 *Mobile-First* web application developed with **React, TypeScript, and Tailwind v4** for the Juniors M.D. Endavant center. It features an immersive interactive modal viewer, integrated audio player, adaptive design with CSS Columns, and SEO/OG tag optimization.
 * [Live Demo](https://jesucristo-superstar.vercel.app)
 * [Repository](https://github.com/JBDev23/jesucristo-superstar)
-
-**AI Sociogram Optimizer** 
-Project developed for the TechForEquality hackathon. It uses artificial intelligence to analyze and optimize sociograms.
-* [Live Demo](sociograma-ia-frontend.vercel.app)
-* [Repository](https://github.com/JBDev23/sociograma-ia)
 
 ---
 
@@ -128,7 +141,6 @@ Project developed for the TechForEquality hackathon. It uses artificial intellig
 ---
 
 ## What I'm Working On  
-* Developing the corporate website for **JCP Construcciones**.  
 * Developing the official website for **Movember Alcoy-Valencia** (scheduled for launch this November).
 * Developing a **web application** for volunteer management and building my own **portfolio**.  
 * Solving algorithmic and programming challenges with **Python**.  
