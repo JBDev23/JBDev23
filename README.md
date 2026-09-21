@@ -29,6 +29,16 @@ Además de la programación, me interesa la **impresión 3D**, el **diseño audi
 
 ## Proyectos Destacados  
 
+**Inazuma Eleven Endavant**  
+Ecosistema híbrido físico-digital para un torneo de fútbol chapas, desarrollado para **Juniors M.D. Endavant**. Combina una PWA de gestión (plantilla, scouting, mercado, instalaciones, tácticas e inventario), un **Match Referee** offline con arbitraje en tiempo real, una **app Android NFC** (protocolo NDEF) para inyectar energía en pulseras sin internet, y un backend **NestJS + PostgreSQL**. Validado en un campamento real con ~80 participantes.  
+* [Landing interactiva](https://inazuma-docs.vercel.app/) — arquitectura, demos y cómo funciona todo el ecosistema
+
+Repositorios del proyecto
+* [Endavant Web](https://github.com/JBDev23/inazuma-eleven-endavant)  
+* [JDD NFC App](https://github.com/JBDev23/jdd-nfc)  
+* [Inazuma Scripts](https://github.com/JBDev23/inazuma-scripts)  
+* [Docs Landing](https://github.com/JBDev23/inazuma-docs) — código de la landing
+
 **HydraFlow**  
 Aplicación de código abierto para el registro de agua, desarrollada con **React Native**. Actualmente en fase de pruebas.  
 * [Repositorio App](https://github.com/JBDev23/hydraflow)
@@ -107,6 +117,16 @@ In addition to programming, I am passionate about **3D printing**, **audiovisual
 ---
 
 ## Featured Projects  
+
+**Inazuma Eleven Endavant**  
+Hybrid physical-digital ecosystem for a tabletop football tournament, built for **Juniors M.D. Endavant**. It combines a management PWA (roster, scouting, free agents, facilities, tactics, and inventory), an offline **Match Referee** with real-time arbitration, a native **Android NFC app** (NDEF) that writes energy to wristbands offline, and a **NestJS + PostgreSQL** backend. Successfully run at a real camp with ~80 participants.  
+* [Interactive landing](https://inazuma-docs.vercel.app/) — architecture, demos, and how the full ecosystem works
+
+Project repositories  
+* [Endavant Web](https://github.com/JBDev23/inazuma-eleven-endavant)  
+* [JDD NFC App](https://github.com/JBDev23/jdd-nfc)  
+* [Inazuma Scripts](https://github.com/JBDev23/inazuma-scripts)  
+* [Docs Landing](https://github.com/JBDev23/inazuma-docs) — landing source code
 
 **HydraFlow**  
 Open-source water tracking application built with **React Native**. Currently in testing phase.
