@@ -1,6 +1,8 @@
 # ¡Hola! - Hello!
 Soy **Jordi**, un programador en formación con muchas ganas de aprender. Actualmente estudio **Ingeniería Informática** en la **Universidad Politécnica de Valencia**, finalizando mi cuarto curso con especialidad en **Ingeniería del Software**.  
 
+**Visita mi [Portafolio Web (jbdev23.com)](https://www.jbdev23.com/es) para conocer más sobre mí y mis proyectos.**
+
 <details>
     <summary>Haz click para ver más - Español</summary>
 <br>
@@ -29,6 +31,11 @@ Además de la programación, me interesa la **impresión 3D**, el **diseño audi
 
 ## Proyectos Destacados  
 
+**Quorum**  
+Aplicación móvil diseñada para modernizar la gobernanza comunitaria y facilitar la toma de decisiones asíncrona. Construida con React Native y Supabase, integra un sistema completo de votaciones, gestión de usuarios en tiempo real y monetización a través de RevenueCat, ofreciendo una experiencia fluida y escalable. Proyecto desarrollado como participación para la Shipathon 2026.  
+* [Pitch y Demo (Devpost)](https://devpost.com/software/quorum-u1zkid)
+* [Repositorio App](https://github.com/JBDev23/quorum)
+
 **Inazuma Eleven Endavant**  
 Ecosistema híbrido físico-digital para un torneo de fútbol chapas, desarrollado para **Juniors M.D. Endavant**. Combina una PWA de gestión (plantilla, scouting, mercado, instalaciones, tácticas e inventario), un **Match Referee** offline con arbitraje en tiempo real, una **app Android NFC** (protocolo NDEF) para inyectar energía en pulseras sin internet, y un backend **NestJS + PostgreSQL**. Validado en un campamento real con ~80 participantes.  
 * [Landing interactiva](https://inazuma-docs.vercel.app/) — arquitectura, demos y cómo funciona todo el ecosistema
@@ -43,13 +50,18 @@ Repositorios del proyecto
 Aplicación de código abierto para el registro de agua, desarrollada con **React Native**. Actualmente en fase de pruebas.  
 * [Repositorio App](https://github.com/JBDev23/hydraflow)
 
+**Portafolio Personal**  
+Mi portafolio web personal, diseñado y desarrollado para mostrar mis proyectos, habilidades y experiencia profesional. Construido con Next.js y animaciones fluidas con Framer Motion, priorizando el rendimiento y una experiencia de usuario moderna.  
+* [Ver Web](https://www.jbdev23.com)  
+* [Ver Repositorio](https://github.com/JBDev23/jbdev23.com)  
+
 **JCP Obras y Construcciones Landing Page**  
-Proyecto dearrollado para un cliente real, JCP Obras y Construcciones. JCP ofrece servicio de construcción y reformas en L'Alcoià, el Comtat y La Vall d'Albaida.
+Proyecto desarrollado para un cliente real, JCP Obras y Construcciones. JCP ofrece servicio de construcción y reformas en L'Alcoià, el Comtat y La Vall d'Albaida.
 * [Web JCP Obras y Construcciones](https://www.jcpconstrucciones.com/)
 
 **Optimizador de Sociogramas con IA (WeavyAI)**  
 Proyecto desarrollado para la hackathon TechForEquality. Utiliza inteligencia artificial para analizar y optimizar sociogramas.
-* [Ver Demo en Vivo](sociograma-ia-frontend.vercel.app)
+* [Ver Demo en Vivo](https://sociograma-ia-frontend.vercel.app)
 * [Ver Repositorio](https://github.com/JBDev23/sociograma-ia)
 
 **Schoolyard Wheel**  
@@ -60,6 +72,11 @@ Generador de disposiciones mensuales de zonas de patio para el curso escolar. Es
 Aplicación web *Mobile-First* desarrollada con **React, TypeScript y Tailwind v4** para el centro Juniors M.D. Endavant. Incluye un visor modal inmersivo interactivo, reproductor de audio integrado, diseño adaptativo con CSS Columns y optimización de metaetiquetas (SEO/OG).
 * [Ver Demo en Vivo](https://jesucristo-superstar.vercel.app)
 * [Ver Repositorio](https://github.com/JBDev23/jesucristo-superstar)
+
+**Sorteo Medieval**  
+Página web para el sorteo de la rifa de la II Cena Medieval Solidaria en beneficio de la asociación Novaterra.
+* [Ver Demo en Vivo](https://jbdev23.github.io/SorteoMedieval/)
+* [Ver Repositorio](https://github.com/JBDev23/SorteoMedieval)
 
 ---
 
@@ -73,7 +90,7 @@ Aplicación web *Mobile-First* desarrollada con **React, TypeScript y Tailwind v
 
 ## En qué Estoy Trabajando  
 * Desarrollando la web oficial de **Movember Alcoy-Valencia** (lanzamiento previsto para noviembre).
-* Desarrollando una **aplicación web** de gestión para un voluntariado y construyendo mi **portafolio**.
+* Desarrollando una **aplicación web** de gestión para un voluntariado y mejorando mi **portafolio**.
 * Resolviendo retos de programación y algoritmia con **Python**.
 
 ---
@@ -88,6 +105,8 @@ Aplicación web *Mobile-First* desarrollada con **React, TypeScript y Tailwind v
 </details>
 
 I’m **Jordi**, a programmer in training with a strong desire to learn. I am currently studying **Computer Engineering** at the **Polytechnic University of Valencia**, finishing my fourth year with a specialization in **Software Engineering**.  
+
+**Check out my [Web Portfolio (jbdev23.com)](https://www.jbdev23.com/en) to know more about me and my projects.**
 
 <details>
   <summary>Click to see more - English</summary>
@@ -118,6 +137,11 @@ In addition to programming, I am passionate about **3D printing**, **audiovisual
 
 ## Featured Projects  
 
+**Quorum**  
+Mobile application designed to modernize community governance and facilitate asynchronous decision-making. Built with React Native and Supabase, it integrates a complete voting system, real-time user management, and monetization via RevenueCat, offering a seamless and scalable experience. Developed as a submission for Shipathon 2026.  
+* [Pitch & Demo (Devpost)](https://devpost.com/software/quorum-u1zkid)
+* [App Repository](https://github.com/JBDev23/quorum)
+
 **Inazuma Eleven Endavant**  
 Hybrid physical-digital ecosystem for a tabletop football tournament, built for **Juniors M.D. Endavant**. It combines a management PWA (roster, scouting, free agents, facilities, tactics, and inventory), an offline **Match Referee** with real-time arbitration, a native **Android NFC app** (NDEF) that writes energy to wristbands offline, and a **NestJS + PostgreSQL** backend. Successfully run at a real camp with ~80 participants.  
 * [Interactive landing](https://inazuma-docs.vercel.app/) — architecture, demos, and how the full ecosystem works
@@ -132,13 +156,18 @@ Project repositories
 Open-source water tracking application built with **React Native**. Currently in testing phase.
 * [App Repository](https://github.com/JBDev23/hydraflow)
 
-**JCP Obras y Construcciones Landing Page
+**Personal Portfolio**  
+My personal portfolio web, designed and developed to showcase my projects, skills, and professional experience. Built with Next.js and fluid animations with Framer Motion, prioritizing performance and a modern user experience.  
+* [Live Web](https://www.jbdev23.com/en)  
+* [Repository](https://github.com/JBDev23/jbdev23.com)  
+
+**JCP Obras y Construcciones Landing Page**
 Project developed for a real client, JCP Obras y Construcciones. JCP offers construction and renovation services in L'Alcoià, el Comtat, and La Vall d'Albaida.
 * [Web JCP Obras y Construcciones](https://www.jcpconstrucciones.com/)
 
 **AI Sociogram Optimizer (WeavyAI)** 
 Project developed for the TechForEquality hackathon. It uses artificial intelligence to analyze and optimize sociograms.
-* [Live Demo](sociograma-ia-frontend.vercel.app)
+* [Live Demo](https://sociograma-ia-frontend.vercel.app)
 * [Repository](https://github.com/JBDev23/sociograma-ia)
 
 **Schoolyard Wheel**  
@@ -149,6 +178,11 @@ Monthly playground zone assignment generator for the school year. It is a simple
 *Mobile-First* web application developed with **React, TypeScript, and Tailwind v4** for the Juniors M.D. Endavant center. It features an immersive interactive modal viewer, integrated audio player, adaptive design with CSS Columns, and SEO/OG tag optimization.
 * [Live Demo](https://jesucristo-superstar.vercel.app)
 * [Repository](https://github.com/JBDev23/jesucristo-superstar)
+
+**Medieval Raffle (Sorteo Medieval)**  
+Website for the raffle draw of the II Solidarity Medieval Dinner for the benefit of the Novaterra association.
+* [Live Demo](https://jbdev23.github.io/SorteoMedieval/)
+* [Repository](https://github.com/JBDev23/SorteoMedieval)
 
 ---
 
@@ -162,7 +196,7 @@ Monthly playground zone assignment generator for the school year. It is a simple
 
 ## What I'm Working On  
 * Developing the official website for **Movember Alcoy-Valencia** (scheduled for launch this November).
-* Developing a **web application** for volunteer management and building my own **portfolio**.  
+* Developing a **web application** for volunteer management and improving my **portfolio**.  
 * Solving algorithmic and programming challenges with **Python**.  
 
 ---
@@ -175,6 +209,6 @@ Monthly playground zone assignment generator for the school year. It is a simple
 
 ---
 
-<p align="center">
+<a href="https://www.jbdev23.com/es" target="_blank" rel="noopener noreferrer" align="center">
   <img src="banner.webp" width="100%" style="border-radius: 25px;">
-</p>
+</a>
